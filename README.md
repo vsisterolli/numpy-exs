@@ -1,0 +1,2 @@
+# numpy-exs
+Numpy exercises
